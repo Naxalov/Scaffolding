@@ -1,0 +1,2 @@
+# Scaffolding
+OpenCV Pose estimation 
